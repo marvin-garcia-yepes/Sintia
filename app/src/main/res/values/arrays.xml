@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_spinner_items">spiner</string-array>
+    <string-array name="spinner_items">spinner año</string-array>
+</resources>
